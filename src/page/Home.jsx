@@ -41,10 +41,10 @@ function Home() {
       <h1 contentEditable="true" spellCheck="false">This is heading 1</h1>
       <p>created by {name}</p>
       <p>Copywrite by {moonLanding.getFullYear()}</p>
-
       <br />
       <h2 style={head2_style}>This is heading 2</h2>
       <h1 className='heading2' style={heading1}>{greeting}</h1>
+      
 
 
     </div>
